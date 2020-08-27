@@ -2,10 +2,10 @@ import { Select, Drawer, Button, Collapse } from 'antd';
 import React, {Component} from 'react'
 import 'antd/dist/antd.css';
 import './style.css'
-import tagData from './tagData.json'
-import listData from './data.json'
+import tagData from '../tagData.json'
+import listData from '../data.json'
 import _ from 'lodash';
-import { MathComponent } from 'mathjax-react'
+import MathJax from 'react-mathjax-preview'
 
 const { Option } = Select;
 
@@ -24,18 +24,11 @@ tags.sort()
 const qLists = listData;
 
 
-// const t = _.map(Object.values(listData), (q) => {
-//     return q
-// }) 
-// console.log(t)
 const q = []
 for (var i in listData){
     q.push(i)
 }
-//console.log(q)
 
-//display the recommend tags 
-//console.log(typeof(value)); is object
 
 
 
@@ -45,6 +38,7 @@ const { Panel } = Collapse;
 
 function callback(key) {
   console.log(key);
+  
 }
 
 export default class index extends Component {
@@ -91,21 +85,33 @@ export default class index extends Component {
            })
 
        }
-       //console.log('statelist', list)
+        // let div = document.createElement("div");
+
         return _.map(questions,(item,index) =>{
-            
+            // let content = item.question.questiontext.text.replace(/<.+?>/g, '');
+            // content = content.replace(/&nbsp;/ig,'');
+
+
+            // div.innerHTML = item.question.questiontext.text;
+            // const textA = div.textContent || div.innerText;
+            // console.log(textA)
             return (
                 
-                <Panel header={item.question.name.text} key={index}>
-                    <MathComponent tex={String.raw`\int_0^1 x^2\ dx`} />
-                    {/* <MathComponent tex={item.question.questiontext.text} /> */}
-                <p dangerouslySetInnerHTML={{ __html: item.question.questiontext.text}}></p>
-
-
+                <Panel header={item.question.name.text} key={index} >
+                    <p>id: {item.question.idnumber}</p>
+                    <ul>Tags:{item.question.tags.tag.map((tag) =>
+                        <li key={tag.text}>{tag.text} </li>
+                        )}
+                    </ul>
+                  
+                    <MathJax math={item.question.questiontext.text} />
+     
                 </Panel>
             )
+        
         })
     }
+
     
     state = { visible: false, placement: 'right' };
 
@@ -336,6 +342,7 @@ export default class index extends Component {
                     
                 </Collapse>
                 </div>
+
         </React.Fragment>
         )
     }
