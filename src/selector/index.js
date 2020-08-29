@@ -96,19 +96,28 @@ export default class index extends Component {
             // const textA = div.textContent || div.innerText;
             // console.log(textA)
             return (
-                
                 <Panel header={item.question.name.text} key={index} >
-                    <p>id: {item.question.idnumber}</p>
-                    <ul>Tags:{item.question.tags.tag.map((tag) =>
-                        <li key={tag.text}>{tag.text} </li>
-                        )}
-                    </ul>
-                  
-                    <MathJax math={item.question.questiontext.text} />
-     
+                    <table className='questionTable'>
+                    <tr>
+                        <td className='questionText'>
+                        <div>
+                            <MathJax math={item.question.questiontext.text} />
+                        </div>
+                        
+                        </td>
+                        <td className='idAndTags'>
+                            <div>
+                                <p>id: {item.question.idnumber}</p>
+                                <ul>Tags:{item.question.tags.tag.map((tag) =>
+                                    <li key={tag.text}>{tag.text}</li>
+                                )}
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                    </table>
                 </Panel>
             )
-        
         })
     }
 

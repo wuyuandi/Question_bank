@@ -10,3 +10,18 @@
 .button {
     margin: 20px;
 }
+.questionTable {
+
+    width: 100%;
+}
+.questionText {
+    vertical-align: top;
+    background-color: #ffe4c4;
+}
+.idAndTags {
+    background-color: #add8e6;
+    
+    vertical-align: top;
+    width: 200px;
+
+}
