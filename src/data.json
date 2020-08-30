@@ -1,2584 +1,1310 @@
-[
-    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-},    {
-    "quiz": null
-}]
+{
+    
+    "gepe-2019-09-10--12-05": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Basic Polar form"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Conversely, we can provide the position vector for any nonzero \\( \\mathbf{x} = (x,y)\\) in \\(\\mathbb{R}^2\\) by saying</p>\n\n<ol>\n<li>what angle \\( \\mathbf{x}\\) makes from the positive \\(x\\)-axis (angles are measured counterclockwise), and</li>\n<li>what distance \\( \\mathbf{x}\\) has from the origin.</li>\n</ol>\n\n<p>For example, if \\( \\mathbf{x}\\) makes the angle \\( \\tfrac{\\pi}{4}\\) from the positive \\(x\\)-axis and has distance \\( 3\\) from the origin, then</p><p>\\( \\mathbf{x} = 3\\cdot ( \\cos\\tfrac{\\pi}{4} , \\sin \\tfrac{\\pi}{4} ) = \\tfrac{3}{\\sqrt{2}}\\cdot (1,1) \\).</p>\n\n<p>Why? \\( \\mathbf{u} = ( \\cos\\tfrac{\\pi}{4} , \\sin \\tfrac{\\pi}{4} ) \\) is the unit vector which makes the angle \\( \\tfrac{\\pi}{4}\\) from the positive \\( x\\)-axis, and rescaling it by \\( r=3\\) gives the position vector for \\( \\mathbf{x}\\).</p>\n\n<p><b>Question</b> If \\( \\mathbf{x} \\) makes the angle \\( \\tfrac{\\pi}{{@d@}} \\) from the positive \\( x\\)-axis and has distance \\( {@r@}\\) from the origin, then</p>\n\n<p style=\"text-align: center;\">\\( \\mathbf{x} = \\) (&nbsp;[[input:ans1]] ,&nbsp;[[input:ans2]] ) [[feedback:prt1]]<br>\n\n</p><p>[[validation:ans1]] [[validation:ans2]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-05",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Polar Form"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-10": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex linear trafo 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>For a fixed complex number \\( w\\) consider the complex linear transformation</p>\n\n<p>\\[ L:\\mathbb{C} \\longrightarrow \\mathbb{C},\\quad L(z) = w\\cdot z \\]</p>\n\n<p>What is \\( w\\) if \\( L\\) scales \\(\\mathbb{C}\\) by the factor \\( {@scalnum@}/{@scaldenom@} \\) while rotating \\( \\mathbb{C}\\) counterclockwise through the angle</p>\n\n<p>\\[ \\theta = \\dfrac{2\\pi}{@PiFrac@} \\]<br></p>\n\n<p>&nbsp;&nbsp; Answer:&nbsp; \\( w = \\)&nbsp; [[input:ans1]] <br></p>\n\n<p>Hint: type \\( e^{ \\tfrac{\\pi i}{2}}\\) as exp(pi*i/2)</p>\n\n<p style=\"text-align: center;\">[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-10",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex transformation"
+                    },
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "4/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-15": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex number: inverse computation 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>Find the inverse of the complex number \\( z = {@x@} + {@y@}i \\)<br></p><p style=\"text-align: center;\">\\(z^{-1} = \\)&nbsp; [[input:ans1]]&nbsp; format: a*(u+v*i)<br></p><p style=\"text-align: center;\"> [[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-15",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-20": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex number: inverse computation 1 - Practice"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>Find the inverse of the complex number \\( z = {@x@} + {@y@}i \\)<br></p><p style=\"text-align: center;\">\\(z^{-1} = \\)&nbsp; [[input:ans1]]&nbsp; format: a*(u+v*i)<br></p><p style=\"text-align: center;\"> [[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-20",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-25": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex Operations 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Compute the following:</p>\n<ol><li>\\( \\mathit{Re}({@u@}+{@v@}i) = \\) [[input:ans1]]&nbsp;&nbsp; [[validation:ans1]]<br></li>\n<li>\\( \\mathit{Im}({@x@}{@y@}i) = \\) [[input:ans2]]&nbsp;&nbsp; &nbsp;[[validation:ans2]]<br></li>\n<li>\\( w + z = ({@u@}+{@v@}i) + ({@x@}{@y@}i) = \\) [[input:ans3]] format: a+b*i&nbsp; [[validation:ans3]]<br></li><li>\\( w z = ({@u@}+{@v@}i)\\cdot ({@x@}{@y@}i) = \\) [[input:ans4]]&nbsp;&nbsp;format: a+b*i [[validation:ans4]]<br></li></ol>"
+            },
+            "idnumber": "gepe-2019-09-10--12-25",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-30": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex Operations 1 - Practice"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Compute the following:</p>\n<ol><li>\\( \\mathit{Re}({@u@}+{@v@}i) = \\) [[input:ans1]]&nbsp;&nbsp; [[validation:ans1]]<br></li>\n<li>\\( \\mathit{Im}({@x@}{@y@}i) = \\) [[input:ans2]]&nbsp;&nbsp; &nbsp;[[validation:ans2]]<br></li>\n<li>\\( w + z = ({@u@}+{@v@}i) + ({@x@}{@y@}i) = \\) [[input:ans3]] format: a+b*i&nbsp; [[validation:ans3]]<br></li><li>\\( w z = ({@u@}+{@v@}i)\\cdot ({@x@}{@y@}i) = \\) [[input:ans4]]&nbsp;&nbsp;format: a+b*i [[validation:ans4]]<br></li></ol>"
+            },
+            "idnumber": "gepe-2019-09-10--12-30",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-35": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex Operations 2"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>With the complex numbers</p><p></p><ul><li>\\( a = {@a@} \\)</li><li>\\( w = {@w@} \\)</li><li>\\( z = {@z@} \\)</li></ul><p style=\"text-align: center;\"><span style=\"color: rgb(73, 80, 87); font-size: 1rem; font-family: sans-serif, &quot;Open Sans&quot;, Arial;\">&nbsp;\\( a(w-z)^2 - a(w+z)^2 = \\)&nbsp;[[input:ans1]]</span></p><p></p><p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-35",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-40": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex Operations 2 - Practice"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>With the complex numbers</p><p></p><ul><li>\\( a = {@a@} \\)</li><li>\\( w = {@w@} \\)</li><li>\\( z = {@z@} \\)</li></ul><p style=\"text-align: center;\"><span style=\"color: rgb(73, 80, 87); font-size: 1rem; font-family: sans-serif, &quot;Open Sans&quot;, Arial;\">&nbsp;\\( a(w-z)^2 - a(w+z)^2 = \\)&nbsp;[[input:ans1]]</span></p><p></p><p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-40",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-45": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex Operations 3"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>With the complex numbers</p><p></p><ul><li>\\( a = {@a@} \\)</li><li>\\( w = {@w@} \\)</li><li>\\( z = {@z@} \\)</li></ul><p style=\"text-align: center;\"><span style=\"color: rgb(73, 80, 87); font-size: 1rem; font-family: sans-serif, &quot;Open Sans&quot;, Arial;\">&nbsp;\\( a(\\bar{w}-z)^2 + a(w+\\bar{z})^2 = \\)&nbsp;[[input:ans1]]</span></p><p></p><p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-45",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-50": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "De Moivre\\'s Theorem"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Given a complex number \\(z={@q@}\\) determine</p>\n\n<p>\\(|z^{@n@}|=\\)[[input:ans1]] [[validation:ans1]] [[feedback:prt1]]</p>\n<p>and \\(\\arg(z^{@n@})=\\)[[input:ans2]] [[validation:ans2]] [[feedback:prt2]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-50",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "De Moivre"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--12-55": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Equation Solve 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>Find the complex number \\( z \\) if</p><p>\\[ ({@Rew@} + {@Imw@}\\cdot i)\\bar{z} + \\overline{ {@Reu@} {@Imu@}\\cdot i } = {@Rer@} + {@Imr@}\\cdot i\\]<br></p><p>&nbsp;&nbsp; Answer: \\( z = \\) [[input:ans1]]&nbsp;&nbsp; format: (a+b*i)/c<br></p><p style=\"text-align: center;\">[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--12-55",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Difficulty 4"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-00": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Equation solve 2"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>Solve the equation below for \\( z \\)</p><p>\\[ \\dfrac{ {@Compu@} }{ z } = \\dfrac{ {@Compv@} }{ {@Compw@} }&nbsp; \\]<br></p><p>&nbsp;&nbsp; Answer: \\( z = \\)&nbsp; [[input:ans1]]&nbsp; format: (a+b*i)/c<br></p><p style=\"text-align: center;\">[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-00",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Difficulty 4"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-05": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Imaginary part of product"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p>\n<p>Find the imaginary part of</p>\n\n<table style=\"width: auto; margin-left: 10%; margin-right: auto;\">\n    <tbody>\n        <tr>\n            <td>&nbsp; \\( z \\)</td>\n            <td>\\(\\ =\\ \\)</td>\n            <td>\\( {({@u@} + {@v@}i)({@x@} + {@y@}i)} \\)</td>\n        </tr>\n        <tr>\n            <td>&nbsp;</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;</td>\n        </tr>\n        <tr>\n            <td>\\( \\mathit{Im}(z) \\)</td>\n            <td>\\(\\ =\\ \\)</td>\n            <td> [[input:ans1]] </td>\n        </tr>\n    </tbody>\n</table>\n\n<p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-05",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-10": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Imaginary part via conjugate"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Suppose the complex number&nbsp;\\( z\\) satisfies</p>\n\n<p>\\[ 2\\cdot \\mathit{Im}(z) = {@Im@} \\]</p>\n\n<p>Then (be careful with your answer; you get only one try)</p>\n\n<table style=\"width: auto; margin-left: 10%; margin-right: auto;\">\n<tbody>\n<tr>\n<td>\\( z - \\bar{z} \\)</td><td>\\(\\ =\\ \\)</td><td>[[input:ans1]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>If your answer for \\( z -\\bar{z}\\) is \\( 3-4i\\), type 3-4*i.</p>\n\n<p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-10",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-15": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Imaginary Part via conjugate 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>If the complex number&nbsp; \\( z\\) satisfies</p><p>\\[ z - \\bar{z} = {@DblIm@}\\cdot i \\]</p><p>then \\( \\mathit{Im}(z) = \\)&nbsp; [[input:ans1]]</p><p>Be careful: you have only one try with this question</p><p> [[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-15",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-20": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "n-th root of -1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Find a complex number \\( w\\) such that&nbsp; \\( w^{@n@} = -1\\).</p>\n\n<p>Answer</p>\n\n<p style=\"text-align: center;\">\\( w = \\) [[input:ans1]]</p>\n\n<p>Hint: type \\( e^{\\tfrac{t*i}{b}}\\) as exp((t*i)/b)</p><p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-20",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Roots of Unity"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-25": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "n-th root of C-number of modulus 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Find a complex number \\( w\\) such that&nbsp; \\( w^{@n@} = e^{\\pi i/{@a@}}\\).</p>\n\n<p>Answer</p>\n\n<p style=\"text-align: center;\">\\( w = \\) [[input:ans1]]</p>\n\n<p>Hint: type \\( e^{\\pi i/3}\\) as e^(pi*i/3); careful: you have only one try for this question.</p>\n<p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-25",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Roots of Unity"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-30": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "n-th root of i"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Here we\\'ll learn how to compute roots of complex numbers. - The key is the beautiful formula of Euler for the multiplication of complex numbers in polar form: if</p>\n\n<p>\\( w=re^{\\alpha i} \\)&nbsp;&nbsp; and&nbsp;&nbsp; \\( z = se^{\\beta i}\\), then&nbsp; \\( wz = rs e^{(\\alpha+\\beta)i} \\)</p><p>So, multiplication of complex numbers adds angles from the positive \\(x\\)-direction, and multiplies absolute values. Here is an immediate application: let\\'s compute an \\( {@n@}\\)-th root of \\( i = e^{\\tfrac{\\pi}{2} i} \\).</p>\n\n<p><b>Solution</b>: Suppose \\( w\\in \\mathbb{C}\\) satisfies \\( w^{@n@} = i\\). Then we find that \\( | w | = 1\\) because:</p>\n\n<p style=\"text-align: center;\">\\( 1 = | i | = | w^{@n@} | = | w |^{@n@}\\)</p>\n\n<p>Therefore any polar form of \\( w \\) satisfies: \\( w = e^{\\alpha i} \\) for some \\( \\alpha\\in \\mathbb{R} \\). But then</p><p style=\"text-align: center;\">\\( i = e^{\\tfrac{\\pi}{2} i} = \\left( e^{\\alpha i} \\right)^{@n@} = e^{ {@n@}\\alpha i } \\)</p>\n\n<p>Therefore, \\( \\alpha = \\) [[input:ans1]]&nbsp; yields an \\( {@n@} \\)-th root of \\( i\\), namely [[validation:ans1]]<br></p>\n<p style=\"text-align: center;\">\\( w = \\) [[input:ans2]]</p>\n\n<p>Hint: \\( e^{3\\pi i} \\) is input as e^(3*pi*i)<br></p>\n\n<p>[[validation:ans2]]<br></p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-30",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "Tutorial"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Roots of Unity"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-35": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Quadratic equation solve"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Find all roots of the polynomial</p><p>\\[ p(z) = z^2 + ({@c@})z + {@d@} \\]</p>\n\n<p><b>Answer</b></p>\n\n<ol>\n<li>\\( z_1 = \\) &nbsp; [[input:ans1]]</li>\n<li>\\( z_2 = \\) &nbsp; [[input:ans2]]</li>\n</ol>\n\n<p>[[validation:ans1]]</p>\n<p>[[validation:ans2]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-35",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Square Roots"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-40": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Quadratic equation solve - Practice"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Find all roots of the polynomial</p><p>\\[ p(z) = z^2 + ({@c@})z + {@d@} \\]</p>\n\n<p><b>Answer</b></p>\n\n<ol>\n<li>\\( z_1 = \\) &nbsp; [[input:ans1]]</li>\n<li>\\( z_2 = \\) &nbsp; [[input:ans2]]</li>\n</ol>\n\n<p>[[validation:ans1]]</p>\n<p>[[validation:ans2]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-40",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Square Roots"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-45": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Real part via conjugate"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Suppose the complex number&nbsp;\\( z\\) satisfies</p>\n\n<p>\\[ 2\\cdot \\mathit{Re}(z) = {@Re@} \\]</p>\n\n<p>Then (be careful with your answer; you get only one try)</p>\n\n<table style=\"width: auto; margin-left: 10%; margin-right: auto;\">\n<tbody>\n<tr>\n<td>\\( z + \\bar{z} \\)</td><td>\\(\\ =\\ \\)</td><td>[[input:ans1]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-45",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 1/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-50": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Real Part via conjugate 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>If the complex number&nbsp; \\( z\\) satisfies</p><p>\\[ z+\\bar{z} = {@DRe@} \\]</p><p>then \\( \\mathit{Re}(z) = \\)&nbsp; [[input:ans1]]</p><p>(Please think your answer through carefully. You only get one try here.)<br> </p><p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-50",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--13-55": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Root of unity find 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>For an integer \\( n\\geq 1\\), recall that an \\(n\\)-th root of unity is any complex number \\( \\omega\\) such that</p><p style=\"text-align: center;\">&nbsp;\\( \\omega^n = 1 \\)<br></p><p>Certainly, \\( \\omega=1\\) is an \\(n\\)-th root of unity for every \\(n\\). Now, if \\( n={@ord@}\\), then an \\(n\\)-th root of unity which is distinct from \\(1\\) is<br></p><p style=\"text-align: center;\">\\(\\omega = \\)&nbsp; [[input:ans1]]&nbsp;&nbsp;</p><p style=\"text-align: left;\">Enter one \\(n\\)-th root only. Your answer should not contain any variables. Hint: type \\( e^{9\\pi i/4}\\) as e^(9*pi*i/4)<br></p><p style=\"text-align: center;\"> [[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--13-55",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Roots of Unity"
+                    },
+                    {
+                        "text": "Difficulty 4"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--14-00": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Roots of unity find 2"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>Find \\( 3 \\) distinct \\( {@ord@}\\)-th roots of unity:</p><ol><li>\\( w_1 = \\) [[input:ans1]]&nbsp; format: cos(t) + sin(t) * i&nbsp;&nbsp; [[validation:ans1]]</li><li>\\( w_2 = \\) [[input:ans2]]&nbsp; format: cos(t) + sin(t) * i&nbsp;&nbsp; [[validation:ans2]]</li><li>\\( w_3 = \\) [[input:ans3]]&nbsp; format: cos(t) + sin(t) * i&nbsp;&nbsp; [[validation:ans3]]<br></li></ol><p style=\"text-align: left;\">Your answers should not contain any variables.<br></p><p style=\"text-align: center;\"><br></p>"
+            },
+            "idnumber": "gepe-2019-09-10--14-00",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Roots of Unity"
+                    },
+                    {
+                        "text": "Difficulty 5"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--14-05": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Square root find"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>If the complex number \\(z\\) satisfies&nbsp; \\( z^2 = {@SqRe@} + {@SqIm@}i\\), then the possible values for \\( z\\) are<br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp; [[input:ans1]] + [[input:ans2]]\\( i\\)&nbsp;&nbsp; and&nbsp;&nbsp; [[input:ans3]] + [[input:ans4]]\\( i\\)<br></p><p style=\"text-align: center;\">[[validation:ans1]]</p><p style=\"text-align: center;\">[[validation:ans2]]</p><p style=\"text-align: center;\">[[validation:ans3]]</p><p style=\"text-align: center;\">[[validation:ans4]]<br></p>"
+            },
+            "idnumber": "gepe-2019-09-10--14-05",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Square Roots"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--14-10": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Square root find - Practice"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>If the complex number \\(z\\) satisfies&nbsp; \\( z^2 = {@SqRe@} + {@SqIm@}i\\), then the possible values for \\( z\\) are<br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp; [[input:ans1]] + [[input:ans2]]\\( i\\)&nbsp;&nbsp; and&nbsp;&nbsp; [[input:ans3]] + [[input:ans4]]\\( i\\)<br></p><p style=\"text-align: center;\">[[validation:ans1]]</p><p style=\"text-align: center;\">[[validation:ans2]]</p><p style=\"text-align: center;\">[[validation:ans3]]</p><p style=\"text-align: center;\">[[validation:ans4]]<br></p>"
+            },
+            "idnumber": "gepe-2019-09-10--14-10",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Square Roots"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2019-09-10--14-50": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Unit circle review"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>To understand multiplication of complex numbers geometrically, we rely on trigonometric functions and how they relate to the unit circle in \\( \\mathbb{C}\\), respectively \\( \\mathbb{R}^2\\). Please draw a sketch of the following situation:</p>\n\n<p>Suppose \\( \\mathbf{x} = (x,y) \\) is a vector in satisfying&nbsp; \\( x,y\\geq 0\\), and \\( ||\\mathbf{x}|| = 1\\). If the angle from the positive \\(x\\)-axis to \\( \\mathbf{x}\\) is \\( t\\), then how are \\( x,y\\) and \\( t\\) related?</p>\n\n<ul>\n<li>relationship between \\( x\\) and \\(t\\):&nbsp; \\( x = \\) &nbsp; [[input:ans1]]</li>\n<li>relationship between \\( y\\) and \\(t\\):&nbsp; \\( y = \\) &nbsp; [[input:ans2]] [[feedback:prt1]]<br></li>\n</ul>\n\n<p>To answer these questions, enter an identity such as \\( t = \\tan x\\) as \"t=tan(x)\", with no spaces.</p><p>Thus, if \\( t = \\tfrac{\\pi}{{@d@}} \\), then the unit vector in \\( \\mathbb{R}^2\\) which makes the angle \\( t\\) from the positive \\( x\\)-axis is</p><p>\\( \\mathbf{x} = \\) (&nbsp;[[input:ans3]] ,&nbsp;[[input:ans4]] ) [[feedback:prt2]]<br></p>\n\n<p>[[validation:ans1]] [[validation:ans2]][[validation:ans3]] [[validation:ans4]]</p>"
+            },
+            "idnumber": "gepe-2019-09-10--14-50",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Polar Form"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-15": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Complex Operations 3 - Practice"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p></p><p>With the complex numbers</p><p></p><ul><li>\\( a = {@a@} \\)</li><li>\\( w = {@w@} \\)</li><li>\\( z = {@z@} \\)</li></ul><p style=\"text-align: center;\"><span style=\"color: rgb(73, 80, 87); font-size: 1rem; font-family: sans-serif, &quot;Open Sans&quot;, Arial;\">&nbsp;\\( a(\\bar{w}-z)^2 + a(w+\\bar{z})^2 = \\)&nbsp;[[input:ans1]]</span></p><p></p><p>[[validation:ans1]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-15",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-13": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Addition in C^n"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p><b>\\(\\mathbb{C}^n\\) and vector addition</b>&nbsp; &nbsp;As we constructed points and vectors in \\( \\mathbb{R}^n\\) as ordered \\(n\\)-tuples of real numbers, we can construct points and vectors in \\( \\mathbb{C}^n\\) as ordered \\(n\\)-tuples of complex numbers. Addition works just as expected: add coordinates in matching positions. For example:</p>\n\n<p>If \\(\\mathbf{w} = (1+i,2-i)\\) and \\( \\mathbf{z} = (3,4+i)\\), then</p>\n<p style=\"text-align: center;\">\\( \\mathbf{w} + \\mathbf{z} = (1+i,2-i) + (3,4+i) = (4+i,6)\\)</p>\n\n<p><b>Problem</b>: find \\( \\mathbf{w} + \\mathbf{z}\\) if</p>\n<p style=\"text-align: center;\">\\( \\mathbf{w} = ( {@Rew1@}+{@Imw1@}i, {@Rew2@} {@Imw2@}i, {@Rew3@}+{@Imw3@}i&nbsp; ) \\) and \\( \\mathbf{z} = ( {@Rez1@}{@Imz1@}i, {@Rez2@} + {@Imz2@}i, {@Rez3@}+{@Imz3@}i&nbsp; ) \\)</p>\n<p><b>Answer</b>:</p>\n<p style=\"text-align: center;\">\\( \\mathbf{w} + \\mathbf{z} = \\) ( [[input:ans1]] , [[input:ans2]] , [[input:ans3]] )<br></p>\n<p>Input a complex such as \\( 2-4i\\) as 2-4*i</p>\n\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-13",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "complex vector spaces"
+                    },
+                    {
+                        "text": "vector operations"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-17": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring cubic polynomial 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( {p(z) = z^3 + {@a2@}z^2 + {@a1@}z + {@a0@}} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( {\\zeta_1 = -{@a@}} \\) is a root of \\( p\\).</p>\n\n<p><b>Answer</b></p>\n\n<table>\n    <tbody>\n        <tr>\n            <td>\\( {p(z) =}\\)</td>\n            <td>&nbsp;\\( ( z - \\) [[input:ans1]] \\( )( z -\\) [[input:ans2]] \\( )( z - \\) [[input:ans3]] \\( ) \\)</td>\n        </tr>\n    </tbody>\n</table>\n<p>&nbsp;</p>\n\n<p>Enter your answer in the form</p>\n<p style=\"text-align: center;\">\\( {p(z) = (z-\\zeta_1)(z-\\zeta_2)(z-\\zeta_3)} \\)<br></p>\n<p>where the imaginary part of \\( \\zeta_2\\) is positive. The negative sign in front of an answer input box applies to everything inside that box.<br></p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-17",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-21": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring cubic polynomial 2"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( p(z) = z^3 - {@a2@}z^2 + {@a1@}z - {@a0@} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( \\zeta_1 = {@a@}\\) is a root of \\( p\\).</p>\n\n<p><b>Answer</b></p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( p(z) =\\)</td><td>&nbsp;\\( ( z - \\) [[input:ans1]] \\( )( z -\\) [[input:ans2]] \\( )( z - \\) [[input:ans3]] \\( ) \\)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n\n<p>Enter your answer in the form</p>\n<p style=\"text-align: center;\">\\( p(z) = (z-\\zeta_1)(z-\\zeta_2)(z-\\zeta_3) \\)<br></p>\n<p>where the imaginary part of \\( \\zeta_2\\) is positive</p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-21",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "Algebra"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-24": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring cubic polynomial 3"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( p(z) = z^3 + {@a2@}z^2 + {@a1@}z + {@a0@} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( \\zeta_1 = -{@a@}\\) is a root of \\( p\\).</p>\n\n<p><b>Solution</b>&nbsp; As \\( {@a@} \\) is a root of \\( p\\), we know that there is a polynomial of degree \\( 2 = 3-1\\), say \\( q(z) = z^2 + c_1z + c_0\\), such that</p>\n<p style=\"text-align: center;\">\\( p(z) = (z + {@a@})\\cdot q(z)\\)<br></p>\n<p>We compute the polynomial \\( q(z)\\) by long division and find:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( q(z) =\\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans1]] \\( z+\\)&nbsp; <br></td><td>[[input:ans2]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Now, we are looking for the roots of \\(q\\); i.e. solutions of the equation \\( q(z) =0\\). As \\( q\\) has coefficients in \\( \\mathbb{R}\\), we expect a pair complex conjugate roots, and the solution formula for quadratic equations helps us find them:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( \\zeta_2 =\\)</td><td>&nbsp; [[input:ans3]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans4]] \\( i\\)</td><td> &nbsp; (input the root with positive imaginary part)</td>\n</tr>\n<tr>\n<td>\\( \\zeta_3 =\\)</td><td>&nbsp; [[input:ans5]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans6]] \\( i\\)</td><td> &nbsp; (input the root with negative imaginary part)</td>\n</tr>\n</tbody>\n</table>\n\n<p>Therefore, \\( p\\) factors as</p>\n<p style=\"text-align: center;\">\\( p(z) = (z - \\zeta_1)(z-\\zeta_2)(z-\\zeta_3) = (z - \\zeta_1)(z-\\zeta_2)(z-\\bar{\\zeta}_2)\\)</p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]][[validation:ans4]][[validation:ans5]][[validation:ans6]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-24",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "Algebra"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-30": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring cubic polynomial 3"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( p(z) = z^3 + {@a2@}z^2 + {@a1@}z + {@a0@} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( \\zeta_1 = -{@a@}\\) is a root of \\( p\\).</p>\n\n<p><b>Solution</b>&nbsp; As \\( {@a@} \\) is a root of \\( p\\), we know that there is a polynomial of degree \\( 2 = 3-1\\), say \\( q(z) = z^2 + c_1z + c_0\\), such that</p>\n<p style=\"text-align: center;\">\\( p(z) = (z + {@a@})\\cdot q(z)\\)<br></p>\n<p>We compute the polynomial \\( q(z)\\) by long division and find:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( q(z) =\\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans1]] \\( z+\\)&nbsp; <br></td><td>[[input:ans2]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Now, we are looking for the roots of \\(q\\); i.e. solutions of the equation \\( q(z) =0\\). As \\( q\\) has coefficients in \\( \\mathbb{R}\\), we expect a pair complex conjugate roots, and the solution formula for quadratic equations helps us find them:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( \\zeta_2 =\\)</td><td>&nbsp; [[input:ans3]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans4]] \\( i\\)</td><td> &nbsp; (input the root with positive imaginary part)</td>\n</tr>\n<tr>\n<td>\\( \\zeta_3 =\\)</td><td>&nbsp; [[input:ans5]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans6]] \\( i\\)</td><td> &nbsp; (input the root with negative imaginary part)</td>\n</tr>\n</tbody>\n</table>\n\n<p>Therefore, \\( p\\) factors as</p>\n<p style=\"text-align: center;\">\\( p(z) = (z - \\zeta_1)(z-\\zeta_2)(z-\\zeta_3) = (z - \\zeta_1)(z-\\zeta_2)(z-\\bar{\\zeta}_2)\\)</p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]][[validation:ans4]][[validation:ans5]][[validation:ans6]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-30",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "Algebra"
+                    },
+                    {
+                        "text": "tries 1"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2018-10-12--13-02": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Quadratic polynomial, prescribed complex roots"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Find three distinct nonzero polynomials \\( p(z)\\) of degree \\( 2\\) and with coefficients in \\( \\mathbb{R}\\) such that</p>\n\n<p>\\[ p( {@RR@} + {@RI@}i) = 0 \\]</p>\n\n<p><b>Answers</b></p>\n\n<table style=\"margin-left: 10%\">\n<tbody>\n<tr>\n<td>\\( p(z) \\)&nbsp;</td>\n<td>&nbsp;\\( = \\)&nbsp;</td>\n<td>[[input:ans1]]\\( z^2\\) + [[input:ans2]]\\( z\\) + [[input:ans3]]</td>\n</tr>\n<tr>\n<td>\\( q(z) \\)&nbsp;</td>\n<td>&nbsp;\\( = \\)&nbsp;</td>\n<td>[[input:ans4]]\\( z^2\\) + [[input:ans5]]\\( z\\) + [[input:ans6]]</td>\n</tr>\n<tr>\n<td>\\( r(z) \\)&nbsp;</td>\n<td>&nbsp;\\( = \\)&nbsp;</td>\n<td>[[input:ans7]]\\( z^2\\) + [[input:ans8]]\\( z\\) + [[input:ans9]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]]</p>\n<p>[[validation:ans4]][[validation:ans5]][[validation:ans6]]</p>\n<p>[[validation:ans7]][[validation:ans8]][[validation:ans9]]</p>"
+            },
+            "idnumber": "gepe-2018-10-12--13-02",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "Algebra"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "tries 1"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-03": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "18 Polynomial Long Division Review"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Here we are going to recall how to <b>divide one polynomial by another</b>. For example:</p>\n\n<p style=\"text-align: center;\">\\( (x^2 - 2) / (x+1) = x-1 \\) remainder \\(-1\\)</p>\n<p>This means that:</p>\n<p style=\"text-align: center;\"> \\( \\dfrac{x^2 - 2}{x+1} = x-1 + \\dfrac{-1}{x+1} \\)</p>\n\n<p>This result is obtained by a process called long division. If you don\\'t remember how to do this, <a href=\"http://www.mesacc.edu/~scotz47781/mat120/notes/divide_poly/long_division/long_division.html\" target=\"_blank\">here is a review by example</a>. Now test your understanding: if</p>\n\n<ul>\n<li>\\( p(x) = {@Px@} \\) and</li>\n<li>\\( q(x) = {@aq2@}x^2 + {@aq1@}x + {@aq0@} \\)</li>\n</ul>\n<p>Then (enter \\( 5x^2 \\) as 5*x^2).<br></p>\n<p style=\"text-align: center;\">\\( (p/q)(x) = \\) [[input:ans1]] &nbsp;&nbsp; remainder &nbsp;&nbsp; [[input:ans2]] </p>\n\n<p>[[validation:ans1]][[validation:ans2]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-03",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "Algebra"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-05": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "17 Polynomial Add / Multiply Review"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Here we are going to brush up on working with polynomials. Of course, there are tons of online tools available to do the job for us. But we do need to know in principle what\\'s going on, what these operations do and what kind of outcome to expect. - So, let\\'s recall: a polynomial in the variable \\( x\\) is an expression like this one.</p>\n\n<p style=\"text-align: center;\">\\( p(x) = 5x^7 -3x^4 + 2x^2 - x +4 \\)</p>\n\n<p>It has degree \\( 7\\), notation: \\( \\mathit{deg}(p) = 7\\), because that\\'s the highest power of \\( x\\) which occurs with a nonzero coefficient (here this coefficient is \\( 5\\)).</p>\n\n<p><b>Question</b>: what\\'s the degree of the polynomial \\( q(z) = 0x^{@D@} + {@ad@}x^{@d@} {@ad2@}x^{@d2@} + {@a0@} \\)</p>\n<p style=\"text-align: center;\">\\( \\mathit{deg}(p) = \\) [[input:ans1]] [[validation:ans1]]</p>\n\n<p><b>Adding/subtracting polynomials</b>: If you don\\'t remember how to do this, <a href=\"http://www.mesacc.edu/~scotz47781/mat120/notes/polynomials/add_subtract/add_subtract.html\" target=\"_blank\">here is a review by example</a>. Now, test your understanding: if</p>\n<ul>\n<li>\\( p(x) = {@ap3@}x^3 {@ap2@}x^2 + {@ap1@}x {@ap0@} \\) and</li>\n<li>\\( q(x) = {@aq2@}x^2 + {@aq1@}x + {@aq0@} \\)</li>\n</ul>\n<p>Then (enter \\( 5x^2 \\) as 5*x^2).<br></p>\n<p style=\"text-align: center;\">\\( (p+q)(x) = \\) [[input:ans2]] [[validation:ans2]]</p>\n\n<p style=\"text-align: left;\"><b>Multiplying polynomials</b>: If you don\\'t remember how to do this, <a href=\"http://www.mesacc.edu/~scotz47781/mat120/notes/polynomials/multiplying/multiplying_poly.html\" target=\"_blank\">here is a review by example</a>. Now, test your understanding: if</p>\n<ul>\n<li>\\( p(x) = {@ap3@}x^3 {@ap2@}x^2 + {@ap1@}x {@ap0@} \\) and</li>\n<li>\\( q(x) = {@aq2@}x^2 + {@aq1@}x + {@aq0@} \\)</li>\n</ul>\n<p>Then</p>\n<p style=\"text-align: center;\">\\( (p\\cdot q)(x) = \\) [[input:ans3]] [[validation:ans3]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-05",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 2/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "Algebra"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2018-10-12--13-01": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "09 Complex i Intro"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Imagine there is a brand new number, denoted \\( i\\) with the amazing property that</p>\n\n<p style=\"text-align: center;\">\\( i^2 = -1\\)</p><p>If this is so, find a root of \\( {@r2@} \\)? - (If you want to input something like \\( 50i\\), type 50*i.)</p>\n\n<p style=\"text-align: center;\">Answer: [[input:ans1]] [[feedback:prt1]]</p>\n\n<p>Using this beautiful imagined number \\( i\\) further, find all solutions of the equation</p>\n\n<p style=\"text-align: center;\">\\( x^2 - {@b@}x + {@c@} = 0 \\)</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( x_1 \\)&nbsp;</td><td>&nbsp;\\( = \\)&nbsp;</td><td>[[input:ans2]]</td>\n</tr>\n<tr>\n<td>\\( x_2 \\)&nbsp;</td><td>&nbsp;\\( = \\)&nbsp;</td><td>[[input:ans3]]<br></td>\n</tr>\n</tbody>\n</table>\n\n<p>[[feedback:root]]<br></p><p>[[validation:ans1]][[validation:ans2]][[validation:ans3]]</p>"
+            },
+            "idnumber": "gepe-2018-10-12--13-01",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "difficulty 3/10"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-07": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "10 Add / Multiply Complex Numbers"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Using the imagined number \\( i\\) with the property that \\( i^2 = -1\\), new numbers can be constructed: a complex number is an expression of the form</p>\n\n<p style=\"text-align: center;\">\\( z = x + yi \\) &nbsp; where \\( x,y \\in \\mathbb{R}\\).</p>\n\n<p>Here you can learn how to add and multiply complex numbers.</p>\n\n<p><b>Addition of complex numbers</b>&nbsp;&nbsp; If&nbsp;\\( w = u + vi \\) and \\( z = x + yi \\) are complex numbers, then</p>\n\n<p style=\"text-align: center;\">\\( w + z = (u+vi) + (x+yi) = u+x + (v+y)i \\)</p>\n\n<p>Consequently,</p>\n\n<p style=\"text-align: center;\">\\( ({@u@} + {@v@}i)\\ +\\ ({@x@} + {@y@}i) = \\) [[input:ans1]][[validation:ans1]]</p>\n\n<p><b>Multiplication of complex numbers</b> &nbsp;&nbsp; We multiply complex numbers by distributivity: If&nbsp;\\( w = u + vi \\) and \\( z = x + yi \\) are complex numbers, then</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( w \\cdot z \\)</td><td>&nbsp;\\( = \\)&nbsp;</td><td>\\( (u+vi) \\cdot (x+yi) \\)</td>\n</tr><tr>\n</tr><tr>\n<td>&nbsp;</td><td>&nbsp;\\( = \\)&nbsp;</td><td>\\( ux + uyi + vix +vyi^2 \\)</td>\n</tr><tr>\n</tr><tr>\n<td>&nbsp;</td><td>&nbsp;\\( = \\)&nbsp;</td><td>\\( (ux - vy)\\ +\\ (uy + vx)i \\)</td>\n</tr><tr>\n</tr></tbody>\n</table>\n\n<p>Here we used that \\( i^2 = -1\\) and that \\( ix = xi\\). Consequently,</p>\n\n<p style=\"text-align: center;\">\\( ({@u@} + {@v@}i) \\cdot ({@x@} + {@y@}i) = \\) [[input:ans2]][[validation:ans2]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-07",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 1"
+                    },
+                    {
+                        "text": "complex arithmetic"
+                    },
+                    {
+                        "text": "difficulty 1/10"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-35": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring quartic polynomial 2"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( p(z) = z^4 + {@a3@}z^3 + {@a2@}z^2 + {@a1@}z + {@a0@} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( \\zeta_1 = -{@a@} + {@b@}i\\) is a root of \\( p\\).</p>\n\n<p><b>Solution</b>&nbsp; As \\( \\zeta_1 \\) is a root of \\( p\\), we know that \\( \\zeta_2 = \\bar{\\zeta}_1 = -{@a@} - {@b@}i \\) is also a root of \\( p\\). This is so, because \\(p\\) has coefficients in \\( \\mathbb{R}\\). Consequently, \\( p(z)\\) is divisible by</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( f(z) = (z - \\zeta_1)(z-\\zeta_2) = \\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans1]] \\( z+\\)&nbsp; <br></td><td>[[input:ans2]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Thus we may factor \\( p(z) = f(z)\\cdot g(z)\\), where \\( g(z)\\) has degree \\( 2\\). We compute the polynomial \\( g(z)\\) by long division and find:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( g(z) =\\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans3]] \\( z+\\)&nbsp; <br></td><td>[[input:ans4]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Now, we are looking for the roots of \\(g\\); i.e. solutions of the equation \\( g(z) =0\\). As \\( g\\) has coefficients in \\( \\mathbb{R}\\), we expect two roots in \\( \\mathbb{R}\\) or a pair complex conjugate roots. Either way, the solution formula for quadratic equations helps us find them:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( \\zeta_3 =\\)</td><td>&nbsp; [[input:ans5]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans6]] \\( i\\)</td><td> &nbsp; (input the root with positive imaginary part)</td>\n</tr>\n<tr>\n<td>\\( \\zeta_4 =\\)</td><td>&nbsp; [[input:ans7]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans8]] \\( i\\)</td><td> &nbsp; (input the root with negative imaginary part)</td>\n</tr>\n</tbody>\n</table>\n\n<p>Therefore, \\( p\\) factors as</p>\n<p style=\"text-align: center;\">\\( p(z) = (z - \\zeta_1)(z-\\zeta_2)(z-\\zeta_3)(z-\\zeta_4) = (z - \\zeta_1)(z-\\bar{\\zeta}_1)(z-\\zeta_3)(z-\\bar{\\zeta}_3)\\)</p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]][[validation:ans4]][[validation:ans5]][[validation:ans6]][[validation:ans7]][[validation:ans8]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-35",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "tries 2"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-36": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring quartic polynomial 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( p(z) = z^4 - {@a3@}z^3 + {@a2@}z^2 - {@a1@}z + {@a0@} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( \\zeta_1 = {@a@} + {@b@}i\\) is a root of \\( p\\).</p>\n\n<p><b>Solution</b>&nbsp; As \\( \\zeta_1 \\) is a root of \\( p\\), we know that \\( \\zeta_2 = \\bar{\\zeta}_1 = {@a@} - {@b@}i \\) is also a root of \\( p\\). This is so, because \\(p\\) has coefficients in \\( \\mathbb{R}\\). Consequently, \\( p(z)\\) is divisible by</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( f(z) = (z - \\zeta_1)(z-\\zeta_2) = \\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans1]] \\( z+\\)&nbsp; <br></td><td>[[input:ans2]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Thus we may factor \\( p(z) = f(z)\\cdot g(z)\\), where \\( g(z)\\) has degree \\( 2\\). We compute the polynomial \\( g(z)\\) by long division and find:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( g(z) =\\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans3]] \\( z+\\)&nbsp; <br></td><td>[[input:ans4]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Now, we are looking for the roots of \\(g\\); i.e. solutions of the equation \\( g(z) =0\\). As \\( g\\) has coefficients in \\( \\mathbb{R}\\), we expect a pair complex conjugate roots, and the solution formula for quadratic equations helps us find them:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( \\zeta_3 =\\)</td><td>&nbsp; [[input:ans5]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans6]] \\( i\\)</td><td> &nbsp; (input the root with positive imaginary part)</td>\n</tr>\n<tr>\n<td>\\( \\zeta_4 =\\)</td><td>&nbsp; [[input:ans7]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans8]] \\( i\\)</td><td> &nbsp; (input the root with negative imaginary part)</td>\n</tr>\n</tbody>\n</table>\n\n<p>Therefore, \\( p\\) factors as</p>\n<p style=\"text-align: center;\">\\( p(z) = (z - \\zeta_1)(z-\\zeta_2)(z-\\zeta_3)(z-\\zeta_4) = (z - \\zeta_1)(z-\\bar{\\zeta}_1)(z-\\zeta_3)(z-\\bar{\\zeta}_3)\\)</p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]][[validation:ans4]][[validation:ans5]][[validation:ans6]][[validation:ans7]][[validation:ans8]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-36",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "tries 2"
+                    },
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    }
+                ]
+            }
+        }
+    }
+,    
+    "gepe-2020-10-12--13-37": {
+        "question": {
+            "@type": "stack",
+            "name": {
+                "text": "Factoring quartic polynomial 1"
+            },
+            "questiontext": {
+                "@format": "html",
+                "text": "<p>Consider the polynomial</p>\n<p style=\"text-align: center;\">\\( p(z) = z^4 - {@a3@}z^3 + {@a2@}z^2 - {@a1@}z + {@a0@} \\)<br></p>\n<p>Factor \\( p \\) over the complex numbers, using the information that&nbsp;\\( \\zeta_1 = {@a@} + {@b@}i\\) is a root of \\( p\\).</p>\n\n<p><b>Solution</b>&nbsp; As \\( \\zeta_1 \\) is a root of \\( p\\), we know that \\( \\zeta_2 = \\bar{\\zeta}_1 = {@a@} - {@b@}i \\) is also a root of \\( p\\). This is so, because \\(p\\) has coefficients in \\( \\mathbb{R}\\). Consequently, \\( p(z)\\) is divisible by</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( f(z) = (z - \\zeta_1)(z-\\zeta_2) = \\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans1]] \\( z+\\)&nbsp; <br></td><td>[[input:ans2]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Thus we may factor \\( p(z) = f(z)\\cdot g(z)\\), where \\( g(z)\\) has degree \\( 2\\). We compute the polynomial \\( g(z)\\) by long division and find:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( g(z) =\\)</td><td>&nbsp;\\( z^2 +\\) <br></td><td>[[input:ans3]] \\( z+\\)&nbsp; <br></td><td>[[input:ans4]]</td>\n</tr>\n</tbody>\n</table>\n\n<p>Now, we are looking for the roots of \\(g\\); i.e. solutions of the equation \\( g(z) =0\\). As \\( g\\) has coefficients in \\( \\mathbb{R}\\), we expect a pair complex conjugate roots, and the solution formula for quadratic equations helps us find them:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\\( \\zeta_3 =\\)</td><td>&nbsp; [[input:ans5]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans6]] \\( i\\)</td><td> &nbsp; (input the root with positive imaginary part)</td>\n</tr>\n<tr>\n<td>\\( \\zeta_4 =\\)</td><td>&nbsp; [[input:ans7]]&nbsp;</td><td>\\( +\\) &nbsp;</td><td>[[input:ans8]] \\( i\\)</td><td> &nbsp; (input the root with negative imaginary part)</td>\n</tr>\n</tbody>\n</table>\n\n<p>Therefore, \\( p\\) factors as</p>\n<p style=\"text-align: center;\">\\( p(z) = (z - \\zeta_1)(z-\\zeta_2)(z-\\zeta_3)(z-\\zeta_4) = (z - \\zeta_1)(z-\\bar{\\zeta}_1)(z-\\zeta_3)(z-\\bar{\\zeta}_3)\\)</p>\n\n<p>[[validation:ans1]][[validation:ans2]][[validation:ans3]][[validation:ans4]][[validation:ans5]][[validation:ans6]][[validation:ans7]][[validation:ans8]]</p>"
+            },
+            "idnumber": "gepe-2020-10-12--13-37",
+            "tags": {
+                "tag": [
+                    {
+                        "text": "difficulty 4/10"
+                    },
+                    {
+                        "text": "factoring polynomials"
+                    },
+                    {
+                        "text": "Complex Numbers"
+                    },
+                    {
+                        "text": "Linear Algebra"
+                    },
+                    {
+                        "text": "Complex Variables"
+                    },
+                    {
+                        "text": "tries 1"
+                    }
+                ]
+            }
+        }
+    }
+}
